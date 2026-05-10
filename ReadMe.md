@@ -24,7 +24,7 @@ A modern, responsive educational website built with HTML, CSS, and JavaScript. E
 ## Project Structure
 
 ```
-Eduweb-v2/
+Eduweb/
 ├── home.html          # Landing page
 ├── about.html         # About the platform
 ├── courses.html       # Course catalog
