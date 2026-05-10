@@ -2,6 +2,8 @@
 
 A modern, responsive educational website built with HTML, CSS, and JavaScript. EduWeb provides an interactive platform for browsing and enrolling in online courses with a user-friendly interface.
 
+- **Live Preview**: https://studyeduweb.netlify.app/
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
